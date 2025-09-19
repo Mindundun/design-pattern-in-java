@@ -1,3 +1,4 @@
+// Singleton pattern
 public class App {
     public static void main(String[] args) throws Exception {
         // SingletonDemo obj = new SingletonDemo(); 에러

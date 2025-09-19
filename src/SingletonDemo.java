@@ -1,4 +1,4 @@
-// Singleton pattern
+// Singleton pattern 
 public class SingletonDemo {
     // singleton 패턴에 대한 예제
     // 싱글톤은 Application당 인스턴스 하나이며, Application 실행과 종료 시 라이프사이클이 동일
