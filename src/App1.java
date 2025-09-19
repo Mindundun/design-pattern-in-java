@@ -1,3 +1,4 @@
+// Builder pattern
 public class App1 {
     public static void main(String[] args) {
         // 매개변수를 전달하여 매개변수 있는 생성자 생성 시 해당 매개변수의 순서 실수가 존재할 수 있는데,

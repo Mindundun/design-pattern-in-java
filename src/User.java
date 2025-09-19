@@ -1,5 +1,4 @@
 // Builder pattern
-
 public class User {
     // instance field
     private final String id;
